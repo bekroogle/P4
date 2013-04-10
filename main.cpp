@@ -14,7 +14,7 @@
 #include <iomanip>
 #include <fstream>
 #include <cstdlib>
-#include <vector>
+#include <stack>
 #include "typedefs.h"
 
 using namespace std;
@@ -29,6 +29,7 @@ int main()
     string if_name;					// Input file name
     Token currentToken;
     State_Name state = START;
+	stack<Token> tokenStack;
 
     cout << "Please enter the name of the input file: ";
     cin >> if_name;

@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>My Title Page</title>
+	</head>
+	<body>
+		<div>My Page</div>
+		<hr />
+		<img src="blah.jpg" />
+		<p>
+			This is my intro paragraph.
+		</p>
+	</body>
+</html>

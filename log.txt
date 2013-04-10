@@ -1,0 +1,22 @@
+token=WORD           type=3 lexeme=goodbye on line #1 at charpos=1
+token=SPACE STRING   type=4 lexeme=       on line #1 at charpos=9
+token=NEWLINE        type=5 lexeme=\n     on line #1 at charpos=11
+token=BEGIN TAG      type=0 lexeme=ABC    on line #2 at charpos=1
+token=NEWLINE        type=5 lexeme=\n     on line #2 at charpos=7
+token=ERROR          type=6 lexeme=bbb    on line #3 at charpos=1
+token=WORD           type=3 lexeme=/>     on line #3 at charpos=7
+token=NEWLINE        type=5 lexeme=\n     on line #3 at charpos=10
+token=ERROR          type=6 lexeme=ABC    on line #4 at charpos=1
+token=WORD           type=3 lexeme=/3>    on line #4 at charpos=7
+token=NEWLINE        type=5 lexeme=\n     on line #4 at charpos=11
+token=WORD           type=3 lexeme=blah   on line #5 at charpos=1
+token=NEWLINE        type=5 lexeme=\n     on line #5 at charpos=6
+token=WORD           type=3 lexeme=@      on line #6 at charpos=1
+token=SPACE STRING   type=4 lexeme=       on line #6 at charpos=4
+token=WORD           type=3 lexeme=whatever> on line #6 at charpos=6
+token=NEWLINE        type=5 lexeme=\n     on line #6 at charpos=16
+token=WORD           type=3 lexeme=       on line #7 at charpos=1
+token=BEGIN TAG      type=0 lexeme=ABC    on line #7 at charpos=3
+token=NEWLINE        type=5 lexeme=\n     on line #7 at charpos=8
+token=WORD           type=3 lexeme=3>     on line #8 at charpos=1
+token=NEWLINE        type=5 lexeme=\n     on line #8 at charpos=5
